@@ -1,0 +1,7 @@
+Label,Notation,Parent Notation,Sort Priority
+Total,total,,1
+Local Authority (incl. owned by other LAs),local-authority,total,2
+Housing association,housing-assiciation,total,3
+Other public sector,other-public-sector,total,4
+Private sector,private-sector,total,5
+Private Registered Provider,private-registered-provider,total,6

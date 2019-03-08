@@ -1,0 +1,8 @@
+title,name,component_attachment,property_template,value_template,datatype,value_transformation
+Period,period,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/{+period},string,
+Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography},string,
+Tenure,tenure,qb:dimension,http://gss-data.org.uk/def/dimension/tenure,http://gss-data.org.uk/def/concept/tenure/{tenure},string,
+Value,value,,http://gss-data.org.uk/def/measure/{measure_type},,number,
+Measure Type,measure_type,qb:dimension,http://purl.org/linked-data/cube#measureType,http://gss-data.org.uk/def/measure/{measure_type},string,slugize
+Count,count,qb:measure,http://gss-data.org.uk/def/measure/count,,number,
+Unit,unit,qb:attribute,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,http://gss-data.org.uk/def/concept/measurement-units/{unit},string,unitize

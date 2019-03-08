@@ -1,0 +1,8 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "tables": [{
+    "url": "codelists/tenure.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Tenure"
+  }]
+}
