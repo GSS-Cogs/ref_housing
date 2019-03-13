@@ -11,3 +11,7 @@ Local authority vacants,local-authority-vacants,all-vacants,9
 Private Registered Provider vacants (general needs stock only),private-registered-provider-vacants-general-needs-stock-only,all-vacants,10
 Private Registered Provider long-term vacants (general needs stock only),private-registered-provider-long-term-vacants-general-needs-stock-only,all-vacants,11
 Other public sector vacants,other-public-sector-vacants,all-vacants,12
+Owner occupied,owner-occupied,total,13
+Owner occupied/Privately rented,owner-occupied-privately-rented,total,14
+Privately rented,privately-rented,total,15
+Registered Social Landlord,registered-social-landlord,total,16
