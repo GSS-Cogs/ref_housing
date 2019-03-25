@@ -5,7 +5,7 @@ Housing association,housing-assiciation,total,3
 Other public sector,other-public-sector,total,4
 Private sector,private-sector,total,5
 Private Registered Provider,private-registered-provider,total,6
-All vacants,all-vacants,,7
+All vacants,all-vacants,total,7
 All long-term vacants,all-long-term-vacants,all-vacants,8
 Local authority vacants,local-authority-vacants,all-vacants,9
 Private Registered Provider vacants (general needs stock only),private-registered-provider-vacants-general-needs-stock-only,all-vacants,10
@@ -15,3 +15,12 @@ Owner occupied,owner-occupied,total,13
 Owner occupied/Privately rented,owner-occupied-privately-rented,total,14
 Privately rented,privately-rented,total,15
 Registered Social Landlord,registered-social-landlord,total,16
+Occupied,occupied,total,17
+Privately owned dwellings,privately-owned-dwellings,total,18
+Occupied,privately-owned-dwellings/occupied,privately-owned-dwellings,19
+Owner occupied,privately-owned-dwellings/owner-occupied,privately-owned-dwellings,20
+Rented privately or with a job/business,privately-owned-dwellings/rented-privately-or-with-a-job-business,privately-owned-dwellings,21
+Vacant private dwellings and second homes,privately-owned-dwellings/vacant-private-dwellings-and-second-homes,privately-owned-dwellings,22
+Socially rented dwellings,socially-rented-dwellings,total,23
+From housing associations,socially-rented-dwellings/from-housing-associations,socially-rented-dwellings,24
+"From local authorities, New Towns, Scottish Homes",socially-rented-dwellings/from-local-authorities-new-towns-scottish-homes,socially-rented-dwellings,25
