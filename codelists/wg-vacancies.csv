@@ -1,9 +1,9 @@
-Label,Notation,Parent Notation,Description,Sort Priority
-Self-contained sheltered (2011-12 onwards only),2.1,5,,
-Self-contained other supported (2011-12 onwards only),2.2,5,,
-Self-contained general needs,1,5,,
-Self-contained sheltered and other supported (up to 2010-11 only),2,5,,
-Self-contained extra care,3,5,,
-Non self-contained,4,6,,
-All self-contained,5,6,,
-Total,6,,,
+Label,Notation,Parent Notation,Sort Priority
+Self-contained sheltered (2011-12 onwards only),2.1,5,
+Self-contained other supported (2011-12 onwards only),2.2,5,
+Self-contained general needs,1,5,
+Self-contained sheltered and other supported (up to 2010-11 only),2,5,
+Self-contained extra care,3,5,
+Non self-contained,4,6,
+All self-contained,5,6,
+Total,6,,

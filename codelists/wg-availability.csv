@@ -1,4 +1,4 @@
-Label,Notation,Parent Notation,Description,Sort Priority
-Available for letting,1,3,,
-Not available for letting,2,3,,
-Total,3,,,
+Label,Notation,Parent Notation,Sort Priority
+Available for letting,1,3,
+Not available for letting,2,3,
+Total,3,,
