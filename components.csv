@@ -1,3 +1,6 @@
 Label,Description,Component Type,Codelist
 Tenure,The conditions under which land or buildings are held or occupied,Dimension,http://gss-data.org.uk/def/concept-scheme/tenure
 Vacancy length,Length of vacancy,Dimension,http://gss-data.org.uk/def/concept-scheme/vacancy-length
+Availability,Availability of vacancies,Dimension,http://gss-data.org.uk/def/concept-scheme/availability
+Provider,Housing provider,Dimension,http://gss-data.org.uk/def/concept-scheme/provider
+Vacancy type,Facilities available or adapted to client groups,Dimension,http://gss-data.org.uk/def/concept-scheme/vacancy-type

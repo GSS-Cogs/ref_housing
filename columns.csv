@@ -7,3 +7,6 @@ Measure Type,measure_type,qb:dimension,http://purl.org/linked-data/cube#measureT
 Count,count,qb:measure,http://gss-data.org.uk/def/measure/count,,number,
 Unit,unit,qb:attribute,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,http://gss-data.org.uk/def/concept/measurement-units/{unit},string,unitize
 Vacancy length,vacancy_length,qb:dimension,http://gss-data.org.uk/def/dimension/vacancy-length,http://gss-data.org.uk/def/concept/vacancy-length/{vacancy_length},string,
+Availability,availability,qb:dimension,http://gss-data.org.uk/def/dimension/availability,http://gss-data.org.uk/def/concept/availability/{availability},string,
+Provider,provider,qb:dimension,http://gss-data.org.uk/def/dimension/provider,http://gss-data.org.uk/def/concept/provider/{provider},string,
+Vacancy type,vacancy_type,qb:dimension,http://gss-data.org.uk/def/dimension/vacancy-type,http://gss-data.org.uk/def/concept/vacancy-type/{vacancy_type},string,

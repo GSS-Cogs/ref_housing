@@ -5,4 +5,6 @@ Under 2 weeks,under-2-weeks,total,2
 6 to 26 weeks,6-to-26-weeks,total,4
 26 weeks to 2 years,26-weeks-to-2-years,total,5
 Longer than 2 years,longer-than-2-years,total,6
-Unknown,unknown,total,7
+Less than 6 months,less-than-6-months,total,7
+6 months or more,6-months-or-more,total,8
+Unknown,unknown,total,9

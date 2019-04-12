@@ -8,5 +8,17 @@
     "url": "codelists/vacancy-length.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Vacancy length"
+  }, {
+    "url": "codelists/wg-availability.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Availability"
+  }, {
+    "url": "codelists/wg-providers.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Provider"
+  }, {
+    "url": "codelists/wg-vacancies.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Vacancy type"
   }]
 }
