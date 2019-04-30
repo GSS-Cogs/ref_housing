@@ -20,5 +20,9 @@
     "url": "codelists/wg-vacancies.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Vacancy type"
+  }, {
+    "url": "codelists/wg-chargeable-homes.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Chargeable homes"
   }]
 }
