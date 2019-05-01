@@ -11,3 +11,4 @@ Availability,availability,qb:dimension,http://gss-data.org.uk/def/dimension/avai
 Provider,provider,qb:dimension,http://gss-data.org.uk/def/dimension/provider,http://gss-data.org.uk/def/concept/provider/{provider},string,
 Vacancy type,vacancy_type,qb:dimension,http://gss-data.org.uk/def/dimension/vacancy-type,http://gss-data.org.uk/def/concept/vacancy-type/{vacancy_type},string,
 Chargeable homes,chargeable_homes,qb:dimension,http://gss-data.org.uk/def/dimension/chargeable-homes,http://gss-data.org.uk/def/concept/chargeable-homes/{chargeable_homes},string,
+Council tax band,council_tax_band,qb:dimension,http://gss-data.org.uk/def/dimension/council-tax-band,http://gss-data.org.uk/def/concept/council-tax-band/{council_tax_band},string,

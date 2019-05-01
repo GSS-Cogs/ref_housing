@@ -24,5 +24,9 @@
     "url": "codelists/wg-chargeable-homes.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Chargeable homes"
+  }, {
+    "url": "codelists/council-tax-band.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Council tax band"
   }]
 }

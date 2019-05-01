@@ -5,3 +5,4 @@ Availability,Availability of vacancies,Dimension,http://gss-data.org.uk/def/conc
 Provider,Housing provider,Dimension,http://gss-data.org.uk/def/concept-scheme/provider
 Vacancy type,Facilities available or adapted to client groups,Dimension,http://gss-data.org.uk/def/concept-scheme/vacancy-type
 Chargeable homes,Chargeable homes,Dimension,http://gss-data.org.uk/def/concept-scheme/chargeable-homes
+Council tax band,Council tax band,Dimension,http://gss-data.org.uk/def/concept-scheme/council-tax-band

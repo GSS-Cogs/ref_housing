@@ -1,0 +1,12 @@
+Label,Notation,Parent Notation,Sort Priority
+Total,total,,1
+A-,A-,total,2
+A,A,total,3
+B,B,total,4
+C,C,total,5
+D,D,total,6
+E,E,total,7
+F,F,total,8
+G,G,total,9
+H,H,total,10
+I,I,total,11
