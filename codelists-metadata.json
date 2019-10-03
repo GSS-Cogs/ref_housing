@@ -2,31 +2,31 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "tables": [{
     "url": "codelists/tenure.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Tenure"
   }, {
     "url": "codelists/vacancy-length.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Vacancy length"
   }, {
     "url": "codelists/wg-availability.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Availability"
   }, {
     "url": "codelists/wg-providers.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Provider"
   }, {
     "url": "codelists/wg-vacancies.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Vacancy type"
   }, {
     "url": "codelists/wg-chargeable-homes.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Chargeable homes"
   }, {
     "url": "codelists/council-tax-band.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Council tax band"
   }]
 }
